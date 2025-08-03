@@ -1,1 +1,1 @@
-# openhack-devops-team
+This project is based on https://github.com/Azure-Samples/openhack-devops-team
